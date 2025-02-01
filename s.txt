@@ -1,7 +1,5 @@
 hi
 hello
-we
-our
 lalala
 blabla
 create hello
