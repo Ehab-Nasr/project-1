@@ -1,7 +1,2 @@
 hi
 hello
-lalala
-blabla
-create hello
-bibibi
-we
